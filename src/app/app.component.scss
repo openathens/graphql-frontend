@@ -1,0 +1,16 @@
+.people-wrapper,
+.messages-wrapper {
+    display: flex;
+    flex-direction: row;
+
+    .people-table,
+    .messages-table,
+    .people-card,
+    .messages-card {
+        width: 50%;
+        margin: 50px;
+    }
+
+
+
+}
